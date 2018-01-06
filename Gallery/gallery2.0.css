@@ -1,0 +1,25 @@
+.brand-image{
+	width: 30px;
+    height: 100%;
+    /* vertical-align: middle; */
+    margin-top: 0;
+    padding: 0;
+    float:left;
+}
+nav{
+	font-family: 'Indie Flower', cursive;
+	color: blue;
+	font-weight: bold;
+}
+.headz{
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: underline;
+}
+.jumbotron{
+	font-family: 'Indie Flower', cursive;
+	background-image: url("https://source.unsplash.com/gbBWpX2sXmU");
+	color: white;
+}
