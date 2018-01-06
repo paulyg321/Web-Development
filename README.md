@@ -14,7 +14,7 @@ For the ToDoList, I practice using Javascript to make an interactive ToDo list.
 ![alt text](img/hover.png)
 - **Click** on an item to cross it out or uncross it
 ![alt text](img/cross.png)
-- **Click** plus logo to hide text box
+- Select **plus** logo to hide text box
 ![alt text](img/hidebox.png)
 - Type anything inside the **Add New Todo** to add to the list then press **enter** 
 ![alt text](img/textIn.png)
