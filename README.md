@@ -17,6 +17,8 @@ For the ToDoList, I practice using Javascript to make an interactive ToDo list.
 - Type anything inside the **Add New Todo** to add to the list then press **enter** 
 ![alt text](img/textIn.png)
 - Select **plus** logo to hide text box
+```
+```
 ![alt text](img/hidebox.png)
 
 # PatClone
