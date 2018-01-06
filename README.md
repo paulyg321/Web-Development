@@ -5,7 +5,7 @@ To see what each file does, download the repository and load any html file from 
 ```
 # Gallery
 Gallery is just a static site where I practice creating a **navbar** as well as practicing using **bootstrap**
-![alt text](img/gallery.jpg)
+![alt text](img/gallery.png)
 
 # ToDoList
 For the ToDoList, I practice using Javascript to make an interactive ToDo list. 
